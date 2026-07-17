@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pmo-india",
+    "official_name": "Prime Minister's Office, India",
+    "official_name_hi": "प्रधानमंत्री कार्यालय, भारत",
+    "entity_type": "Institution",
+    "category": "Government",
+    "official_website": "https://www.pmindia.gov.in",
+    "official_x_handle": "PMOIndia",
+    "official_instagram_handle": "pmoindia",
+    "verified_status": "Verified",
+    "confidence_score": 100,
+    "source_urls": [
+      "https://www.pmindia.gov.in",
+      "https://twitter.com/PMOIndia",
+      "https://www.instagram.com/pmoindia",
+      "https://india.gov.in"
+    ],
+    "added_at": "2025-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "narendramodi-official",
+    "official_name": "Narendra Modi — Prime Minister of India",
+    "official_name_hi": "नरेन्द्र मोदी — भारत के प्रधानमंत्री",
+    "entity_type": "Individual",
+    "category": "Government",
+    "official_website": "https://www.narendramodi.in",
+    "official_x_handle": "narendramodi",
+    "official_instagram_handle": "narendramodi",
+    "verified_status": "Verified",
+    "confidence_score": 100,
+    "source_urls": [
+      "https://www.narendramodi.in",
+      "https://twitter.com/narendramodi",
+      "https://www.instagram.com/narendramodi",
+      "https://pib.gov.in"
+    ],
+    "added_at": "2025-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "mha-india",
+    "official_name": "Ministry of Home Affairs, India",
+    "official_name_hi": "गृह मंत्रालय, भारत",
+    "entity_type": "Institution",
+    "category": "Government",
+    "official_website": "https://www.mha.gov.in",
+    "official_x_handle": "HMOIndia",
+    "official_instagram_handle": null,
+    "verified_status": "Verified",
+    "confidence_score": 95,
+    "source_urls": [
+      "https://www.mha.gov.in",
+      "https://twitter.com/HMOIndia",
+      "https://india.gov.in/topics/defence-and-security"
+    ],
+    "added_at": "2025-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "eci-india",
+    "official_name": "Election Commission of India",
+    "official_name_hi": "भारत निर्वाचन आयोग",
+    "entity_type": "Institution",
+    "category": "Government",
+    "official_website": "https://www.eci.gov.in",
+    "official_x_handle": "ECISVEEP",
+    "official_instagram_handle": "ecisveep",
+    "verified_status": "Verified",
+    "confidence_score": 97,
+    "source_urls": [
+      "https://www.eci.gov.in",
+      "https://twitter.com/ECISVEEP",
+      "https://www.instagram.com/ecisveep"
+    ],
+    "added_at": "2025-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "rbi-official",
+    "official_name": "Reserve Bank of India",
+    "official_name_hi": "भारतीय रिज़र्व बैंक",
+    "entity_type": "Institution",
+    "category": "Government",
+    "official_website": "https://www.rbi.org.in",
+    "official_x_handle": "RBI",
+    "official_instagram_handle": null,
+    "verified_status": "Verified",
+    "confidence_score": 98,
+    "source_urls": [
+      "https://www.rbi.org.in",
+      "https://twitter.com/RBI",
+      "https://finmin.nic.in"
+    ],
+    "added_at": "2025-01-01T00:00:00+00:00"
+  },
+  {
+    "id": "pending-cbi-india",
+    "official_name": "Central Bureau of Investigation",
+    "official_name_hi": "केन्द्रीय अन्वेषण ब्यूरो",
+    "entity_type": "Institution",
+    "category": "Government",
+    "official_website": "https://www.cbi.gov.in",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "https://www.cbi.gov.in"
+    ],
+    "added_at": "2025-06-01T10:00:00+00:00"
+  }
+]
