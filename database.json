@@ -106,5 +106,21 @@
       "https://www.cbi.gov.in"
     ],
     "added_at": "2025-06-01T10:00:00+00:00"
+  },
+  {
+    "id": "1",
+    "official_name": "Narendra modi",
+    "official_name_hi": "नरेंद्र मोदी",
+    "entity_type": "Individual",
+    "category": "Government",
+    "official_website": "https://www.narendramodi.in/",
+    "official_x_handle": "narendramodi",
+    "official_instagram_handle": "narendramodi",
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "https://x.com/narendramodi"
+    ],
+    "added_at": "2026-07-17T21:50:19.835002+00:00"
   }
 ]
