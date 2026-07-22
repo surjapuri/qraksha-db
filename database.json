@@ -201,5 +201,24 @@
       "CSV_Bulk"
     ],
     "added_at": "2026-07-22T21:39:21.878566+00:00"
+  },
+  {
+    "id": "22",
+    "official_name": "Ok",
+    "official_name_hi": "Ok",
+    "entity_type": "Individual",
+    "category": "Finance",
+    "official_website": ".com",
+    "official_x_handle": "Gg",
+    "official_instagram_handle": "Sdfdd",
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "Dhvx"
+    ],
+    "discovered_sources": [
+      "Manual"
+    ],
+    "added_at": "2026-07-22T21:43:59.560461+00:00"
   }
 ]
