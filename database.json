@@ -122,5 +122,84 @@
       "https://x.com/narendramodi"
     ],
     "added_at": "2026-07-17T21:50:19.835002+00:00"
+  },
+  {
+    "id": "amitabh-bachchan",
+    "official_name": "Amitabh Bachchan",
+    "official_name_hi": "अमिताभ बच्चन",
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://srbachchan.tumblr.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://twitter.com/SrBachchan'",
+      "'https://www.instagram.com/amitabhbachchan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-22T21:39:21.878406+00:00"
+  },
+  {
+    "id": "shah-rukh-khan",
+    "official_name": "Shah Rukh Khan",
+    "official_name_hi": "शाहरुख़ ख़ान",
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.redchillies.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://twitter.com/iamsrk'",
+      "'https://www.instagram.com/iamsrk/']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-22T21:39:21.878463+00:00"
+  },
+  {
+    "id": "priyanka-chopra-jonas",
+    "official_name": "Priyanka Chopra Jonas",
+    "official_name_hi": "प्रियंका चोपड़ा जोनस",
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.priyankachopra.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://twitter.com/priyankachopra'",
+      "'https://www.instagram.com/priyankachopra/']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-22T21:39:21.878519+00:00"
+  },
+  {
+    "id": "deepika-padukone",
+    "official_name": "Deepika Padukone",
+    "official_name_hi": "दीपिका पादुकोण",
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://deepikapadukone.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.instagram.com/deepikapadukone/']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-22T21:39:21.878566+00:00"
   }
 ]
