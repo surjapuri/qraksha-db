@@ -220,5 +220,2025 @@
       "Manual"
     ],
     "added_at": "2026-07-22T21:43:59.560461+00:00"
+  },
+  {
+    "id": "salman-khan",
+    "official_name": "Salman Khan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.beingsalmankhan.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.beingsalmankhan.com/'",
+      "'https://x.com/BeingSalmanKhan'",
+      "'https://www.instagram.com/beingsalmankhan/'",
+      "'https://www.facebook.com/BeingSalmanKhan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806241+00:00"
+  },
+  {
+    "id": "akshay-kumar",
+    "official_name": "Akshay Kumar",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/akshaykumar'",
+      "'https://www.instagram.com/akshaykumar/'",
+      "'https://www.facebook.com/akshaykumar']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806281+00:00"
+  },
+  {
+    "id": "ajay-devgn",
+    "official_name": "Ajay Devgn",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/ajaydevgn'",
+      "'https://www.instagram.com/ajaydevgn/'",
+      "'https://www.facebook.com/ajaydevgn']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806335+00:00"
+  },
+  {
+    "id": "hrithik-roshan",
+    "official_name": "Hrithik Roshan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.hrithikroshan.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.hrithikroshan.com/'",
+      "'https://x.com/iHrithik'",
+      "'https://www.instagram.com/hrithikroshan/'",
+      "'https://www.facebook.com/HrithikRoshan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806373+00:00"
+  },
+  {
+    "id": "ranveer-singh",
+    "official_name": "Ranveer Singh",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/RanveerOfficial'",
+      "'https://www.instagram.com/ranveersingh/'",
+      "'https://www.facebook.com/RanveerSingh']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806412+00:00"
+  },
+  {
+    "id": "alia-bhatt",
+    "official_name": "Alia Bhatt",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.aliabhatt.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.aliabhatt.com/'",
+      "'https://x.com/aliaa08'",
+      "'https://www.instagram.com/aliaabhatt/'",
+      "'https://www.facebook.com/AliaBhatt']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806533+00:00"
+  },
+  {
+    "id": "kareena-kapoor-khan",
+    "official_name": "Kareena Kapoor Khan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/KareenaKapoor'",
+      "'https://www.instagram.com/kareenakapoorkhan/'",
+      "'https://www.facebook.com/KareenaKapoorKhan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806570+00:00"
+  },
+  {
+    "id": "katrina-kaif",
+    "official_name": "Katrina Kaif",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/KatrinaKaif'",
+      "'https://www.instagram.com/katrinakaif/'",
+      "'https://www.facebook.com/KatrinaKaif']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806609+00:00"
+  },
+  {
+    "id": "anushka-sharma",
+    "official_name": "Anushka Sharma",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/AnushkaSharma'",
+      "'https://www.instagram.com/anushkasharma/'",
+      "'https://www.facebook.com/AnushkaSharma']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806660+00:00"
+  },
+  {
+    "id": "varun-dhawan",
+    "official_name": "Varun Dhawan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Varun_dvn'",
+      "'https://www.instagram.com/varundvn/'",
+      "'https://www.facebook.com/VarunDhawan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806696+00:00"
+  },
+  {
+    "id": "shahid-kapoor",
+    "official_name": "Shahid Kapoor",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/shahidkapoor'",
+      "'https://www.instagram.com/shahidkapoor/'",
+      "'https://www.facebook.com/shahidkapoor']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806732+00:00"
+  },
+  {
+    "id": "tiger-shroff",
+    "official_name": "Tiger Shroff",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/iTIGERSHROFF'",
+      "'https://www.instagram.com/tigerjackieshroff/'",
+      "'https://www.facebook.com/TigerShroff']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806767+00:00"
+  },
+  {
+    "id": "sidharth-malhotra",
+    "official_name": "Sidharth Malhotra",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/SidMalhotra'",
+      "'https://www.instagram.com/sidmalhotra/'",
+      "'https://www.facebook.com/SidharthMalhotra']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806801+00:00"
+  },
+  {
+    "id": "kriti-sanon",
+    "official_name": "Kriti Sanon",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/kritisanon'",
+      "'https://www.instagram.com/kritisanon/'",
+      "'https://www.facebook.com/KritiSanon']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806834+00:00"
+  },
+  {
+    "id": "kiara-advani",
+    "official_name": "Kiara Advani",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Advani_Kiara'",
+      "'https://www.instagram.com/kiaraaliaadvani/'",
+      "'https://www.facebook.com/KiaraAdvani']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806867+00:00"
+  },
+  {
+    "id": "vicky-kaushal",
+    "official_name": "Vicky Kaushal",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/vickykaushal09'",
+      "'https://www.instagram.com/vickykaushal09/'",
+      "'https://www.facebook.com/VickyKaushal']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806901+00:00"
+  },
+  {
+    "id": "kartik-aaryan",
+    "official_name": "Kartik Aaryan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/TheAaryanKartik'",
+      "'https://www.instagram.com/kartikaaryan/'",
+      "'https://www.facebook.com/KartikAaryan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806936+00:00"
+  },
+  {
+    "id": "rajkummar-rao",
+    "official_name": "Rajkummar Rao",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/RajKummarRao'",
+      "'https://www.instagram.com/rajkummar_rao/'",
+      "'https://www.facebook.com/RajkummarRao']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.806990+00:00"
+  },
+  {
+    "id": "ayushmann-khurrana",
+    "official_name": "Ayushmann Khurrana",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/ayushmannk'",
+      "'https://www.instagram.com/ayushmannk/'",
+      "'https://www.facebook.com/AyushmannKhurrana']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807024+00:00"
+  },
+  {
+    "id": "nushrratt-bharuccha",
+    "official_name": "Nushrratt Bharuccha",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/nushrrattbharuccha'",
+      "'https://www.instagram.com/nushrrattbharuccha/'",
+      "'https://www.facebook.com/NushrrattBharuccha']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807060+00:00"
+  },
+  {
+    "id": "janhvi-kapoor",
+    "official_name": "Janhvi Kapoor",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/JanhviKapoor'",
+      "'https://www.instagram.com/janhvikapoor/'",
+      "'https://www.facebook.com/JanhviKapoor']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807095+00:00"
+  },
+  {
+    "id": "sara-ali-khan",
+    "official_name": "Sara Ali Khan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/SaraAliKhan'",
+      "'https://www.instagram.com/saraalikhan95/'",
+      "'https://www.facebook.com/SaraAliKhan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807129+00:00"
+  },
+  {
+    "id": "pankaj-tripathi",
+    "official_name": "Pankaj Tripathi",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/tripathipankaj'",
+      "'https://www.instagram.com/pankajtripathi/'",
+      "'https://www.facebook.com/PankajTripathi']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807163+00:00"
+  },
+  {
+    "id": "nawazuddin-siddiqui",
+    "official_name": "Nawazuddin Siddiqui",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Nawazuddin_S'",
+      "'https://www.instagram.com/nawazuddin._siddiqui/'",
+      "'https://www.facebook.com/NawazuddinSiddiqui']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807197+00:00"
+  },
+  {
+    "id": "taapsee-pannu",
+    "official_name": "Taapsee Pannu",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/taapsee'",
+      "'https://www.instagram.com/taapsee/'",
+      "'https://www.facebook.com/TaapseePannu']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807230+00:00"
+  },
+  {
+    "id": "mrunal-thakur",
+    "official_name": "Mrunal Thakur",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/mrunal0801'",
+      "'https://www.instagram.com/mrunalthakur/'",
+      "'https://www.facebook.com/MrunalThakur']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807262+00:00"
+  },
+  {
+    "id": "bhumi-pednekar",
+    "official_name": "Bhumi Pednekar",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/bhumipednekar'",
+      "'https://www.instagram.com/bhumipednekar/'",
+      "'https://www.facebook.com/BhumiPednekar']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807295+00:00"
+  },
+  {
+    "id": "malaika-arora",
+    "official_name": "Malaika Arora",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/malaikaarora'",
+      "'https://www.instagram.com/malaikaaroraofficial/'",
+      "'https://www.facebook.com/MalaikaArora']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807327+00:00"
+  },
+  {
+    "id": "mouni-roy",
+    "official_name": "Mouni Roy",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/imouniroy'",
+      "'https://www.instagram.com/imouniroy/'",
+      "'https://www.facebook.com/MouniRoy']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807362+00:00"
+  },
+  {
+    "id": "sushmita-sen",
+    "official_name": "Sushmita Sen",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/thesushmitasen'",
+      "'https://www.instagram.com/sushmitasen47/'",
+      "'https://www.facebook.com/SushmitaSen']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807397+00:00"
+  },
+  {
+    "id": "madhuri-dixit-nene",
+    "official_name": "Madhuri Dixit Nene",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/MadhuriDixit'",
+      "'https://www.instagram.com/madhuridixitnene/'",
+      "'https://www.facebook.com/MadhuriDixit']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807431+00:00"
+  },
+  {
+    "id": "sonam-kapoor",
+    "official_name": "Sonam Kapoor",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/sonamkapoor'",
+      "'https://www.instagram.com/sonamkapoor/'",
+      "'https://www.facebook.com/SonamKapoor']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807463+00:00"
+  },
+  {
+    "id": "kajol",
+    "official_name": "Kajol",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/itsKajolD'",
+      "'https://www.instagram.com/kajol/'",
+      "'https://www.facebook.com/Kajol']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807497+00:00"
+  },
+  {
+    "id": "juhi-chawla",
+    "official_name": "Juhi Chawla",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/iam_juhi'",
+      "'https://www.instagram.com/iamjuhichawla/'",
+      "'https://www.facebook.com/JuhiChawla']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807531+00:00"
+  },
+  {
+    "id": "aishwarya-rai-bachchan",
+    "official_name": "Aishwarya Rai Bachchan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/aishwaryaraibachchan_arb'",
+      "'https://www.instagram.com/aishwaryaraibachchan_arb/'",
+      "'https://www.facebook.com/AishwaryaRaiBachchan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807564+00:00"
+  },
+  {
+    "id": "nayanthara",
+    "official_name": "Nayanthara",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.instagram.com/nayanthara/']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807595+00:00"
+  },
+  {
+    "id": "samantha-ruth-prabhu",
+    "official_name": "Samantha Ruth Prabhu",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Samanthaprabhu2'",
+      "'https://www.instagram.com/samantharuthprabhuoffl/'",
+      "'https://www.facebook.com/SamanthaPrabhuOfficial']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807628+00:00"
+  },
+  {
+    "id": "rashmika-mandanna",
+    "official_name": "Rashmika Mandanna",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/iamRashmika'",
+      "'https://www.instagram.com/rashmika_mandanna/'",
+      "'https://www.facebook.com/RashmikaMandanna']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807662+00:00"
+  },
+  {
+    "id": "keerthy-suresh",
+    "official_name": "Keerthy Suresh",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/keerthysureshofficial'",
+      "'https://www.instagram.com/keerthysureshofficial/'",
+      "'https://www.facebook.com/KeerthySuresh']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807696+00:00"
+  },
+  {
+    "id": "pooja-hegde",
+    "official_name": "Pooja Hegde",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/hegdepooja'",
+      "'https://www.instagram.com/hegdepooja/'",
+      "'https://www.facebook.com/PoojaHegde']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807728+00:00"
+  },
+  {
+    "id": "tamannaah-bhatia",
+    "official_name": "Tamannaah Bhatia",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/tamannaahspeaks'",
+      "'https://www.instagram.com/tamannaahspeaks/'",
+      "'https://www.facebook.com/TamannaahBhatia']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807761+00:00"
+  },
+  {
+    "id": "trisha-krishnan",
+    "official_name": "Trisha Krishnan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/trishtrashers'",
+      "'https://www.instagram.com/trishakrishnan/'",
+      "'https://www.facebook.com/TrishaKrishnan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807794+00:00"
+  },
+  {
+    "id": "dhanush",
+    "official_name": "Dhanush",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/dhanushkraja'",
+      "'https://www.instagram.com/dhanushkraja/'",
+      "'https://www.facebook.com/Dhanush']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807827+00:00"
+  },
+  {
+    "id": "allu-arjun",
+    "official_name": "Allu Arjun",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/alluarjun'",
+      "'https://www.instagram.com/alluarjunonline/'",
+      "'https://www.facebook.com/AlluArjun']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807859+00:00"
+  },
+  {
+    "id": "ram-charan",
+    "official_name": "Ram Charan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/AlwaysRamCharan'",
+      "'https://www.instagram.com/alwaysramcharan/'",
+      "'https://www.facebook.com/RamCharan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807891+00:00"
+  },
+  {
+    "id": "jr-ntr",
+    "official_name": "Jr NTR",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/tarak9999'",
+      "'https://www.instagram.com/jrntr/'",
+      "'https://www.facebook.com/JrNTR']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807924+00:00"
+  },
+  {
+    "id": "prabhas",
+    "official_name": "Prabhas",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/PrabhasRajuU'",
+      "'https://www.instagram.com/actorprabhas/'",
+      "'https://www.facebook.com/Prabhas']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.807981+00:00"
+  },
+  {
+    "id": "mahesh-babu",
+    "official_name": "Mahesh Babu",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.urstrulymahesh.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.urstrulymahesh.com/'",
+      "'https://x.com/urstrulyMahesh'",
+      "'https://www.instagram.com/urstrulymahesh/'",
+      "'https://www.facebook.com/urstrulymahesh']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808016+00:00"
+  },
+  {
+    "id": "kamal-haasan",
+    "official_name": "Kamal Haasan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://kamalhaasan.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://kamalhaasan.com/'",
+      "'https://x.com/ikamalhaasan'",
+      "'https://www.instagram.com/ikamalhaasan/'",
+      "'https://www.facebook.com/ikamalhaasan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808048+00:00"
+  },
+  {
+    "id": "mohanlal",
+    "official_name": "Mohanlal",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.mohanlal.in/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.mohanlal.in/'",
+      "'https://www.instagram.com/mohanlal/'",
+      "'https://www.facebook.com/Mohanlal']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808078+00:00"
+  },
+  {
+    "id": "mammootty",
+    "official_name": "Mammootty",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": "https://www.mammootty.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.mammootty.com/'",
+      "'https://www.instagram.com/mammootty/'",
+      "'https://www.facebook.com/Mammootty']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808112+00:00"
+  },
+  {
+    "id": "suriya",
+    "official_name": "Suriya",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Suriya_offl'",
+      "'https://www.instagram.com/actorsuriya/'",
+      "'https://www.facebook.com/Suriya']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808147+00:00"
+  },
+  {
+    "id": "karthi",
+    "official_name": "Karthi",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Karthi_Offl'",
+      "'https://www.instagram.com/karthi_offl/'",
+      "'https://www.facebook.com/Karthi']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808181+00:00"
+  },
+  {
+    "id": "vijay-deverakonda",
+    "official_name": "Vijay Deverakonda",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/TheDeverakonda'",
+      "'https://www.instagram.com/thedeverakonda/'",
+      "'https://www.facebook.com/VijayDeverakonda']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808215+00:00"
+  },
+  {
+    "id": "r-madhavan",
+    "official_name": "R Madhavan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/ActorMadhavan'",
+      "'https://www.instagram.com/actormaddy/'",
+      "'https://www.facebook.com/RMadhavan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808248+00:00"
+  },
+  {
+    "id": "shilpa-shetty",
+    "official_name": "Shilpa Shetty",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/TheShilpaShetty'",
+      "'https://www.instagram.com/theshilpashetty/'",
+      "'https://www.facebook.com/ShilpaShetty']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808283+00:00"
+  },
+  {
+    "id": "huma-qureshi",
+    "official_name": "Huma Qureshi",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Huma_Q'",
+      "'https://www.instagram.com/iamhumaq/'",
+      "'https://www.facebook.com/HumaQureshi']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808327+00:00"
+  },
+  {
+    "id": "nimrat-kaur",
+    "official_name": "Nimrat Kaur",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/NimratOfficial'",
+      "'https://www.instagram.com/nimratofficial/'",
+      "'https://www.facebook.com/NimratKaur']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808363+00:00"
+  },
+  {
+    "id": "radhika-apte",
+    "official_name": "Radhika Apte",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/radhika_apte'",
+      "'https://www.instagram.com/radhikaapte/'",
+      "'https://www.facebook.com/RadhikaApte']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808399+00:00"
+  },
+  {
+    "id": "sobhita-dhulipala",
+    "official_name": "Sobhita Dhulipala",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/sobhita_d'",
+      "'https://www.instagram.com/sobhitadhulipala/'",
+      "'https://www.facebook.com/SobhitaDhulipala']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808433+00:00"
+  },
+  {
+    "id": "triptii-dimri",
+    "official_name": "Triptii Dimri",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/TriptiiDimri'",
+      "'https://www.instagram.com/tripti_dimri/'",
+      "'https://www.facebook.com/TriptiiDimri']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808466+00:00"
+  },
+  {
+    "id": "ananya-panday",
+    "official_name": "Ananya Panday",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/ananyapanday'",
+      "'https://www.instagram.com/ananyapanday/'",
+      "'https://www.facebook.com/AnanyaPanday']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808500+00:00"
+  },
+  {
+    "id": "bhagyashree",
+    "official_name": "Bhagyashree",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/bhagyashreeoffic'",
+      "'https://www.instagram.com/bhagyashree.online/'",
+      "'https://www.facebook.com/Bhagyashree']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808534+00:00"
+  },
+  {
+    "id": "hina-khan",
+    "official_name": "Hina Khan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/eyehinakhan'",
+      "'https://www.instagram.com/realhinakhan/'",
+      "'https://www.facebook.com/HinaKhan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808568+00:00"
+  },
+  {
+    "id": "rubina-dilaik",
+    "official_name": "Rubina Dilaik",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/RubiDilaik'",
+      "'https://www.instagram.com/rubinadilaik/'",
+      "'https://www.facebook.com/RubinaDilaik']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808601+00:00"
+  },
+  {
+    "id": "divyanka-tripathi",
+    "official_name": "Divyanka Tripathi",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/DivyankaT'",
+      "'https://www.instagram.com/divyankatripathidahiya/'",
+      "'https://www.facebook.com/DivyankaTripathi']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808642+00:00"
+  },
+  {
+    "id": "jennifer-winget",
+    "official_name": "Jennifer Winget",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/jenwinget'",
+      "'https://www.instagram.com/jenniferwinget1/'",
+      "'https://www.facebook.com/JenniferWinget']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808678+00:00"
+  },
+  {
+    "id": "sakshi-tanwar",
+    "official_name": "Sakshi Tanwar",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Entertainment",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.instagram.com/sakshitanwar/'",
+      "'https://www.facebook.com/SakshiTanwar']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808713+00:00"
+  },
+  {
+    "id": "a-r-rahman",
+    "official_name": "A R Rahman",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": "https://www.arrahman.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.arrahman.com/'",
+      "'https://x.com/arrahman'",
+      "'https://www.instagram.com/arrahman/'",
+      "'https://www.facebook.com/ARRahman']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808748+00:00"
+  },
+  {
+    "id": "shreya-ghoshal",
+    "official_name": "Shreya Ghoshal",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": "https://www.shreyaghoshal.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.shreyaghoshal.com/'",
+      "'https://x.com/shreyaghoshal'",
+      "'https://www.instagram.com/shreyaghoshal/'",
+      "'https://www.facebook.com/ShreyaGhoshal']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808781+00:00"
+  },
+  {
+    "id": "arijit-singh",
+    "official_name": "Arijit Singh",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.instagram.com/arijitsingh/'",
+      "'https://www.facebook.com/ArijitSingh']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808821+00:00"
+  },
+  {
+    "id": "sonu-nigam",
+    "official_name": "Sonu Nigam",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/sonunigam'",
+      "'https://www.instagram.com/sonunigamofficial/'",
+      "'https://www.facebook.com/SonuNigam']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808855+00:00"
+  },
+  {
+    "id": "neha-kakkar",
+    "official_name": "Neha Kakkar",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/nehakakkar'",
+      "'https://www.instagram.com/nehakakkar/'",
+      "'https://www.facebook.com/NehaKakkar']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808889+00:00"
+  },
+  {
+    "id": "sunidhi-chauhan",
+    "official_name": "Sunidhi Chauhan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/sunidhichauhan5'",
+      "'https://www.instagram.com/sunidhichauhan5/'",
+      "'https://www.facebook.com/SunidhiChauhan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808923+00:00"
+  },
+  {
+    "id": "badshah",
+    "official_name": "Badshah",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Its_Badshah'",
+      "'https://www.instagram.com/badboyshah/'",
+      "'https://www.facebook.com/Badshah']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.808980+00:00"
+  },
+  {
+    "id": "diljit-dosanjh",
+    "official_name": "Diljit Dosanjh",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": "https://www.diljitdosanjh.com/",
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://www.diljitdosanjh.com/'",
+      "'https://x.com/diljitdosanjh'",
+      "'https://www.instagram.com/diljitdosanjh/'",
+      "'https://www.facebook.com/DiljitDosanjh']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809016+00:00"
+  },
+  {
+    "id": "guru-randhawa",
+    "official_name": "Guru Randhawa",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/GuruOfficial'",
+      "'https://www.instagram.com/gururandhawa/'",
+      "'https://www.facebook.com/GuruRandhawa']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809049+00:00"
+  },
+  {
+    "id": "yo-yo-honey-singh",
+    "official_name": "Yo Yo Honey Singh",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/YoYoHoneySingh'",
+      "'https://www.instagram.com/yoyohoneysingh/'",
+      "'https://www.facebook.com/YoYoHoneySingh']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809084+00:00"
+  },
+  {
+    "id": "jubin-nautiyal",
+    "official_name": "Jubin Nautiyal",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/JubinNautiyal'",
+      "'https://www.instagram.com/jubin_nautiyal/'",
+      "'https://www.facebook.com/JubinNautiyal']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809117+00:00"
+  },
+  {
+    "id": "b-praak",
+    "official_name": "B Praak",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/BPraak'",
+      "'https://www.instagram.com/bpraak/'",
+      "'https://www.facebook.com/BPraak']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809152+00:00"
+  },
+  {
+    "id": "asha-bhosle",
+    "official_name": "Asha Bhosle",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/ashabhosle'",
+      "'https://www.instagram.com/asha.bhosle/'",
+      "'https://www.facebook.com/AshaBhosle']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809199+00:00"
+  },
+  {
+    "id": "mika-singh",
+    "official_name": "Mika Singh",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/MikaSingh'",
+      "'https://www.instagram.com/mikasingh/'",
+      "'https://www.facebook.com/MikaSingh']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809233+00:00"
+  },
+  {
+    "id": "palak-muchhal",
+    "official_name": "Palak Muchhal",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/palakmuchhal3'",
+      "'https://www.instagram.com/palakmuchhal3/'",
+      "'https://www.facebook.com/PalakMuchhal']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809267+00:00"
+  },
+  {
+    "id": "armaan-malik",
+    "official_name": "Armaan Malik",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/ArmaanMalik22'",
+      "'https://www.instagram.com/armaanmalik/'",
+      "'https://www.facebook.com/ArmaanMalik']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809302+00:00"
+  },
+  {
+    "id": "neeti-mohan",
+    "official_name": "Neeti Mohan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/neetimohan18'",
+      "'https://www.instagram.com/neetimohan18/'",
+      "'https://www.facebook.com/NeetiMohan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809336+00:00"
+  },
+  {
+    "id": "shankar-mahadevan",
+    "official_name": "Shankar Mahadevan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Shankar_M'",
+      "'https://www.instagram.com/shankarmahadevan/'",
+      "'https://www.facebook.com/ShankarMahadevan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809369+00:00"
+  },
+  {
+    "id": "shaan",
+    "official_name": "Shaan",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/singer_shaan'",
+      "'https://www.instagram.com/singer_shaan/'",
+      "'https://www.facebook.com/Shaan']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809402+00:00"
+  },
+  {
+    "id": "himesh-reshammiya",
+    "official_name": "Himesh Reshammiya",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/HimeshMusiic'",
+      "'https://www.instagram.com/realhimesh/'",
+      "'https://www.facebook.com/HimeshReshammiya']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809436+00:00"
+  },
+  {
+    "id": "kailash-kher",
+    "official_name": "Kailash Kher",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Music",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/KailashKher'",
+      "'https://www.instagram.com/kailashkher/'",
+      "'https://www.facebook.com/KailashKher']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809470+00:00"
+  },
+  {
+    "id": "sachin-tendulkar",
+    "official_name": "Sachin Tendulkar",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Sports",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/sachin_rt'",
+      "'https://www.instagram.com/sachintendulkar/'",
+      "'https://www.facebook.com/SachinTendulkar']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809503+00:00"
+  },
+  {
+    "id": "virat-kohli",
+    "official_name": "Virat Kohli",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Sports",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/imVkohli'",
+      "'https://www.instagram.com/virat.kohli/'",
+      "'https://www.facebook.com/ViratKohli']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809536+00:00"
+  },
+  {
+    "id": "ms-dhoni",
+    "official_name": "MS Dhoni",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Sports",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/msdhoni'",
+      "'https://www.instagram.com/mahi7781/'",
+      "'https://www.facebook.com/MSDhoni']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809568+00:00"
+  },
+  {
+    "id": "rohit-sharma",
+    "official_name": "Rohit Sharma",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Sports",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/ImRo45'",
+      "'https://www.instagram.com/rohitsharma45/'",
+      "'https://www.facebook.com/RohitSharma']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809601+00:00"
+  },
+  {
+    "id": "hardik-pandya",
+    "official_name": "Hardik Pandya",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Sports",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/hardikpandya7'",
+      "'https://www.instagram.com/hardikpandya93/'",
+      "'https://www.facebook.com/HardikPandya']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809635+00:00"
+  },
+  {
+    "id": "kl-rahul",
+    "official_name": "KL Rahul",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Sports",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/klrahul11'",
+      "'https://www.instagram.com/klrahul/'",
+      "'https://www.facebook.com/KLRahul']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809668+00:00"
+  },
+  {
+    "id": "jasprit-bumrah",
+    "official_name": "Jasprit Bumrah",
+    "official_name_hi": null,
+    "entity_type": "Person",
+    "category": "Sports",
+    "official_website": null,
+    "official_x_handle": null,
+    "official_instagram_handle": null,
+    "verified_status": "Pending",
+    "confidence_score": 0,
+    "source_urls": [
+      "['https://x.com/Jaspritbumrah93'",
+      "'https://www.instagram.com/jaspritbumrah93/'",
+      "'https://www.facebook.com/JaspritBumrah']"
+    ],
+    "discovered_sources": [
+      "CSV_Bulk"
+    ],
+    "added_at": "2026-07-23T10:08:54.809702+00:00"
   }
 ]
